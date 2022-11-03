@@ -1,6 +1,6 @@
 # Information Retrieval System
 
-This repository contains the implementation of a small and rudimentary information retrieval system.
+This repository contains the implementation of a small and rudimentary so called information retrieval system.
 
 <b>Information retrieval</b> refers to the process of being able to provide specific information from a large 
 amount of unsorted data. Search engines like Google, for example, use the principle of information retrieval, 
